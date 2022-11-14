@@ -1,25 +1,35 @@
+p{
+    color: red;
+}
 .navbar__table{
 
-    width: 100%;
-   
-    font-weight: bold;
+    width: 600px; 
 }
 table, td, th{
     border: 0.5px solid #333; 
     border-collapse: collapse;
+    padding: 8px 12px;
+    color: blue;
+}
+
+.head_table{
     text-align: center;
-    
+    font-weight: bold;
+    font-size: 20px;
 }
-td, th{
-    padding: 6px 12px;
+.body_container{
+    text-align: center;
+    font-weight: bold;
 }
-tbody{
-    padding: 60px 120px;
+.body_image{
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    height: 120px;
+   
 }
-.tfoot_footer{
-    font-weight: 0;
+.body_footer{
     text-align: left;
+    font-size: 12px;
 }
-.container__body tr{
-    padding: 60px 120px;
-}
+
