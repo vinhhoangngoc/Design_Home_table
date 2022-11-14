@@ -1,0 +1,25 @@
+.navbar__table{
+
+    width: 100%;
+   
+    font-weight: bold;
+}
+table, td, th{
+    border: 0.5px solid #333; 
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+td, th{
+    padding: 6px 12px;
+}
+tbody{
+    padding: 60px 120px;
+}
+.tfoot_footer{
+    font-weight: 0;
+    text-align: left;
+}
+.container__body tr{
+    padding: 60px 120px;
+}
